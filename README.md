@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jayz-lab
 - 👀 I’m interested in Cybersecurity and Web Development
-- 🌱 I’m currently learning Web Development through a bootcamp [ HTML, CSS, Javascript,command line, git, GitHub, Agile, Scrum, Bootstrap, React]
-- 💞️ I’m looking to collaborate on ...(yet to decide)
+- 🌱 I’m currently learning Web Development through a bootcamp [ HTML, CSS, JavaScript, command line, git, GitHub, Agile, Scrum, Bootstrap, React]
 - 📫 How to reach me ...jc@orbsdigital.com
 
 <!---
