@@ -2,8 +2,6 @@
 
 👋 **Hi**, I’m _JJ_. **_Thank you_** for visiting my profile.
 
-😄 Pronouns: he/him
-
 👀 I’m passionate about:
 - Web Development
 -  Cybercurity
@@ -24,19 +22,27 @@ and interested in:
 [HTML, CSS, JavaScript, command line, git, GitHub, Agile, Scrum, Bootstrap, React]
 
 🤔 I’m looking for help with:
-Anything relating to;
-- Programming 
 - JavaScript
 - Python
+
+and anything relating to Programming and Cybersecurity.
 
 📫 How to reach me:
 
 [![](images/linkedin50x50.png)](https://www.linkedin.com/in/IamJJChang/)
 [![](images/twitter50x50.png)](https://twitter.com/IamJJChang)
 
+😄 Pronouns: he/him
+
+⚡ Fun fact:
+- guitar & martial arts enthusiast
+- Lover of books though i don't read enough 😛 
+- Would love to someday learn Photography
+
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
 <br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
+
 
 <!---
 Jayz-lab/Jayz-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
