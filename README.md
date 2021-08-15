@@ -1,23 +1,48 @@
-![](images/filename%20space.png)
+![](images/github.png)
 
-👋 Hi, I’m JJ @Jayz-lab
+👋 Hi, I’m JJ. 
+😄 Pronouns: he/him
 
 👀 I’m interested in:
--  Cybersecurity 
--  Web Development
+- Cybersecurity 
+- Web Development
+- Cloud
+
+🔭 I’m currently looking for a career as a Front-end Web Developer.
 
 🌱 I’m currently learning:
-- Web Development through Academy Xi [A VIC Government Digital program]
+- Web Development through Academy Xi [VIC Government Digital program]
 
-Previous learnings:
+🕮 Studied:
 - CERT IV in Cybersecurity 2020 at BoxHill Institute, Melbourne, VIC Australia.
 - Jr. Web Development Intensive at Generation Australia.
-[HTML, CSS, JavaScript, command line, git, GitHub, Agile, Scrum, Bootstrap, React] 
+[HTML, CSS, JavaScript, command line, git, GitHub, Agile, Scrum, Bootstrap, React]
+
+🤔 I’m looking for help with:
+Anything relating to;
+- Programming 
+- JavaScript
+- Python
 
 📫 How to reach me:
 - https://www.linkedin.com/in/IamJJChang/
 - https://twitter.com/IamJJChang
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
+<br>
+![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
+
 <!---
 Jayz-lab/Jayz-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 🔭 I’m currently working on …
+- 🌱 I’m currently learning …
+- 👯 I’m looking to collaborate on …
+- 🤔 I’m looking for help with …
+- 💬 Ask me about …
+- 📫 How to reach me: …
+- 😄 Pronouns: …
+- ⚡ Fun fact: …
+https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7
+https://www.iconfinder.com/social-media-icons
 --->
