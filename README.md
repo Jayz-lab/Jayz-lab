@@ -1,6 +1,7 @@
 ![](images/github.png)
 
-👋 Hi, I’m JJ. 
+👋 **Hi**, I’m _JJ_. **_Thank you_** for visiting my profile.
+
 😄 Pronouns: he/him
 
 👀 I’m interested in:
@@ -25,8 +26,9 @@ Anything relating to;
 - Python
 
 📫 How to reach me:
-- https://www.linkedin.com/in/IamJJChang/
-- https://twitter.com/IamJJChang
+
+[![](images/linkedin50x50.png)](https://www.linkedin.com/in/IamJJChang/)
+[![](images/twitter50x50.png)](https://twitter.com/IamJJChang)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
 <br>
@@ -45,4 +47,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: …
 https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7
 https://www.iconfinder.com/social-media-icons
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+syntax for spacing in filename.png -> ![](images/linkedin%20filename.png) %20
 --->
