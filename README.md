@@ -12,7 +12,7 @@
 🔭 I’m currently looking for a career as a Front-end Web Developer.
 
 🌱 I’m currently learning:
-- Web Development through Academy Xi [VIC Government Digital program]
+- Web Development through Academy Xi (VIC Government Digital program)
 
 🕮 Studied:
 - CERT IV in Cybersecurity 2020 at BoxHill Institute, Melbourne, VIC Australia.
