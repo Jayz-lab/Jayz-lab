@@ -4,10 +4,14 @@
 
 😄 Pronouns: he/him
 
-👀 I’m interested in:
-- Cybersecurity 
+👀 I’m passionate about:
 - Web Development
+-  Cybercurity
+
+and interested in:
 - Cloud
+- DevOps methodology
+
 
 🔭 I’m currently looking for a career as a Front-end Web Developer.
 
