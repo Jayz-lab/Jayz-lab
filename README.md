@@ -4,12 +4,11 @@
 
 👀 I’m passionate about:
 - Web Development
--  Cybercurity
+- Cybersecurity
 
 and interested in:
 - Cloud
-- DevOps methodology
-
+- DevOps/DevSecOps methodology
 
 🔭 I’m currently looking for a career as a Front-end Web Developer.
 
