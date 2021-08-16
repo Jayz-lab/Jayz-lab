@@ -16,7 +16,7 @@ and interested in:
 - Web Development at Academy Xi through a [Victorian Government Digital Jobs program](https://djpr.vic.gov.au/digital-jobs).
 
 🕮 Studied:
-- CERT IV in Cybersecurity 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Melbourne, VIC, Australia.
+- CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Australia.
 - Jr. Web Development Intensive, cohort#5 April 2021 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
 (HTML, CSS, JavaScript, command line, git, GitHub, Agile & Scrum methodology, Bootstrap, React, Mochajs)
 
