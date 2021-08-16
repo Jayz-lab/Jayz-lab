@@ -18,7 +18,7 @@ and interested in:
 🕮 Studied:
 - CERT IV in Cybersecurity 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Melbourne, VIC Australia.
 - Jr. Web Development Intensive at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
-[HTML, CSS, JavaScript, command line, git, GitHub, Agile, Scrum, Bootstrap, React]
+(HTML, CSS, JavaScript, command line, git, GitHub, Agile & Scrum methodology, Bootstrap, React, Mochajs)
 
 🤔 I’m looking for help with:
 - JavaScript
@@ -34,7 +34,7 @@ and anything relating to Programming and Cybersecurity.
 😄 Pronouns: he/him
 
 ⚡ Fun fact:
-- guitar & martial arts enthusiast
+- guitar & martial arts enthusiast 
 - Lover of books though i don't read enough 😛 
 - Would love to someday learn Photography
 
