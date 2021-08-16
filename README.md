@@ -1,6 +1,6 @@
 ![](images/github.png)
 
-👋 **Hi**, I’m _JJ_. **_Thank you_** for visiting my profile.
+👋 Hi, I’m JJ. **_Thank you_** for visiting my profile.
 
 👀 I’m passionate about:
 - Web Development
