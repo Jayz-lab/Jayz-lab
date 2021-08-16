@@ -13,11 +13,11 @@ and interested in:
 🔭 I’m currently looking for a career as a Front-end Web Developer.
 
 🌱 I’m currently learning:
-- Web Development through Academy Xi (VIC Government Digital program)
+- Web Development at Academy Xi through a [VIC Government Digital program](https://djpr.vic.gov.au/digital-jobs)
 
 🕮 Studied:
-- CERT IV in Cybersecurity 2020 at BoxHill Institute, Melbourne, VIC Australia.
-- Jr. Web Development Intensive at Generation Australia.
+- CERT IV in Cybersecurity 2020 at [BoxHill Institute,](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/) Melbourne, VIC Australia.
+- Jr. Web Development Intensive at [Generation Australia.](https://australia.generation.org/programs/become-a-web-developer/)
 [HTML, CSS, JavaScript, command line, git, GitHub, Agile, Scrum, Bootstrap, React]
 
 🤔 I’m looking for help with:
