@@ -21,10 +21,10 @@ and interested in:
 (HTML, CSS, JavaScript, command line, git, GitHub, Agile & Scrum methodology, Bootstrap, React, Mochajs)
 
 🤔 I’m looking for help with:
+- Breaking into the industry
 - JavaScript
 - Python
-
-and anything relating to Programming and Cybersecurity.
+- and anything relating to Programming and Cybersecurity.
 
 📫 How to reach me:
 
