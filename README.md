@@ -7,10 +7,11 @@
 - Cybersecurity
 
 and interested in:
-- Cloud
+- Cloud 
 - DevOps/DevSecOps methodology
 
-🔭 I’m currently looking for a career as a Front-end Web Developer.
+🔭 I’m currently looking:
+- for a career as a Front-end Web Developer.
 
 🌱 I’m currently learning:
 - Web Development at Academy Xi through a [Victorian Government Digital Jobs program](https://djpr.vic.gov.au/digital-jobs).
