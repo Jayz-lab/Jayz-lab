@@ -19,7 +19,14 @@ and interested in:
 🕮 Studied:
 - CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Australia.
 - Jr. Web Development Intensive, cohort#5 April 2021 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
-(HTML, CSS, JavaScript, command line, git, GitHub, Agile & Scrum methodology, Bootstrap, React, Mochajs)
+
+Technical skills:
+###### Coding Language
+- HTML, CSS, JavaScript, Python. 
+###### Framework, systems & tools
+- VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
+###### Others
+- Slack, Microsoft Office, Microsoft Teams, Google Docs, Canvas LMS, Splunk, Wireshark, VMware
 
 🤔 I’m looking for help with:
 - Breaking into the industry
