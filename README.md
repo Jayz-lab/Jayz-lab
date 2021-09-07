@@ -1,38 +1,55 @@
 ![](images/github.png)
 
-👋 **Hi**, I’m _JJ_. **_Thank you_** for visiting my profile.
+👋 Hi, I’m JJ. **_Thank you_** for visiting my profile.
 
-😄 Pronouns: he/him
-
-👀 I’m interested in:
-- Cybersecurity 
+👀 I’m passionate about:
 - Web Development
-- Cloud
+- Cybersecurity
 
-🔭 I’m currently looking for a career as a Front-end Web Developer.
+and interested in:
+- Cloud 
+- DevOps/DevSecOps methodology
+
+🔭 I’m currently looking:
+- for a career as a Front-end Web Developer.
 
 🌱 I’m currently learning:
-- Web Development through Academy Xi [VIC Government Digital program]
+- Web Development at Academy Xi through a [Victorian Government Digital Jobs program](https://djpr.vic.gov.au/digital-jobs).
 
 🕮 Studied:
-- CERT IV in Cybersecurity 2020 at BoxHill Institute, Melbourne, VIC Australia.
-- Jr. Web Development Intensive at Generation Australia.
-[HTML, CSS, JavaScript, command line, git, GitHub, Agile, Scrum, Bootstrap, React]
+- CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Australia.
+- Jr. Web Development Intensive, cohort#5 April 2021 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
+
+Technical skills:
+###### Language
+- HTML, CSS, JavaScript, Python. 
+###### Framework, systems & tools
+- VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
+###### Others
+- Slack, Microsoft Office, Microsoft Teams, Google Docs, Canvas LMS, Splunk, Wireshark, VMware.
 
 🤔 I’m looking for help with:
-Anything relating to;
-- Programming 
+- Breaking into the industry
 - JavaScript
 - Python
+- and anything relating to Programming and Cybersecurity.
 
 📫 How to reach me:
 
 [![](images/linkedin50x50.png)](https://www.linkedin.com/in/IamJJChang/)
 [![](images/twitter50x50.png)](https://twitter.com/IamJJChang)
 
+😄 Pronouns: he/him
+
+⚡ Fun fact:
+- guitar & martial arts enthusiast 
+- Lover of books though i don't read enough 😛 
+- Would love to someday learn Photography
+
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
 <br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
+
 
 <!---
 Jayz-lab/Jayz-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
