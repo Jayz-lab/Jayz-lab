@@ -36,6 +36,7 @@ Technical skills:
 
 📫 How to reach me:
 
+[![](images/gmail-50x50.png)](mailto:jc@orbsdigital.com)
 [![](images/linkedin50x50.png)](https://www.linkedin.com/in/IamJJChang/)
 [![](images/twitter50x50.png)](https://twitter.com/IamJJChang)
 
