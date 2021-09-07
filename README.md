@@ -21,7 +21,7 @@ and interested in:
 - Jr. Web Development Intensive, cohort#5 April 2021 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
 
 Technical skills:
-###### Coding Language
+###### Language
 - HTML, CSS, JavaScript, Python. 
 ###### Framework, systems & tools
 - VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
