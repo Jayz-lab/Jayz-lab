@@ -47,9 +47,9 @@ Technical skills:
 - Lover of books though i don't read enough 😛 
 - Would love to someday learn Photography
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
 <br>
-![github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
 
 
 <!---
