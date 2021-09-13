@@ -34,8 +34,6 @@ Technical skills:
 - Python
 - and anything relating to Programming and Cybersecurity.
 
-😄 Pronouns: he/him
-
 ⚡ Fun fact:
 - guitar & martial arts enthusiast 
 - Lover of books though i don't read enough 😛 
@@ -69,7 +67,6 @@ https://www.iconfinder.com/social-media-icons
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 syntax for spacing in filename.png -> ![](images/linkedin%20filename.png) %20
-
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
 --->
