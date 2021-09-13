@@ -1,5 +1,5 @@
 ![](images/github.png)
-
+  
 👋 Hi, I’m JJ. **_Thank you_** for visiting my profile.
 
 👀 I’m passionate about:
@@ -34,12 +34,6 @@ Technical skills:
 - Python
 - and anything relating to Programming and Cybersecurity.
 
-📫 How to reach me:
-
-[![](images/gmail-50x50.png)](mailto:jc@orbsdigital.com)
-[![](images/linkedin50x50.png)](https://www.linkedin.com/in/IamJJChang/)
-[![](images/twitter50x50.png)](https://twitter.com/IamJJChang)
-
 😄 Pronouns: he/him
 
 ⚡ Fun fact:
@@ -47,10 +41,17 @@ Technical skills:
 - Lover of books though i don't read enough 😛 
 - Would love to someday learn Photography
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
-<br>
-![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
+📫 How to reach me:
 
+[![](images/linkedin50x50.png)](https://www.linkedin.com/in/IamJJChang/)
+[![](images/twitter50x50.png)](https://twitter.com/IamJJChang)
+[![](images/gmail-50x50.png)](mailto:jc@orbsdigital.com)
+
+<br>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical" height="200">
+</div>
 
 <!---
 Jayz-lab/Jayz-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,4 +69,7 @@ https://www.iconfinder.com/social-media-icons
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 syntax for spacing in filename.png -> ![](images/linkedin%20filename.png) %20
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
 --->
