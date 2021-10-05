@@ -3,41 +3,49 @@
 👋 Hi, I’m JJ. **_Thank you_** for visiting my profile.
 
 👀 I’m passionate about:
-- Web Development
-- Cybersecurity
+
+    - Web Development
+    - Cybersecurity
 
 and interested in:
-- Cloud 
-- DevOps/DevSecOps methodology
+
+    - Cloud 
+    - DevOps/DevSecOps methodology
 
 🔭 I’m currently looking:
-- for a career as a Front-end Web Developer.
 
-🌱 I’m currently learning:
-- Web Development at Academy Xi through a [Victorian Government Digital Jobs program](https://djpr.vic.gov.au/digital-jobs).
+    - for a career as a Front-end Web Developer.
+
+🌱 I’m currently studying:
+
+    - Graduate Certificate of Programming and Development at Swinburne University of Technology.
 
 🕮 Studied:
-- CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Australia.
-- Jr. Web Development Intensive, cohort#5 April 2021 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
+
+    - CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Australia.
+    - Jr. Web Development Intensive, cohort 5 April 2021 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
+    - Frontend Web Development, July Cohort 2021 at Academy Xi via [Victorian Government Digital Jobs program, Australia](https://djpr.vic.gov.au/digital-jobs).
 
 Technical skills:
 ###### Language
-- HTML, CSS, JavaScript, Python. 
+    - HTML, CSS, JavaScript, Python. 
 ###### Framework, systems & tools
-- VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
+    - VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
 ###### Others
-- Slack, Microsoft Office, Microsoft Teams, Google Docs, Canvas LMS, Splunk, Wireshark, VMware.
+    - Slack, Microsoft Office, Microsoft Teams, Google Docs, Canvas LMS, Splunk, Wireshark, VMware.
 
 🤔 I’m looking for help with:
-- Breaking into the industry
-- JavaScript
-- Python
-- and anything relating to Programming and Cybersecurity.
+
+    - Breaking into the industry
+    - JavaScript
+    - Python
+    - and anything relating to Programming and Cybersecurity.
 
 ⚡ Fun fact:
-- guitar & martial arts enthusiast 
-- Lover of books though i don't read enough 😛 
-- Would love to someday learn Photography
+
+    - guitar & martial arts enthusiast 
+    - Lover of books though i don't read enough 😛 
+    - Would love to someday learn Photography
 
 📫 How to reach me:
 
