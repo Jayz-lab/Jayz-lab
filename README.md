@@ -4,7 +4,7 @@
 
 👀 I’m passionate about:
 
-   - Web Development
+   - Software Development
    - Cybersecurity
 
 and interested in:
@@ -18,7 +18,7 @@ and interested in:
 
 🌱 I’m currently studying:
 
-   - Graduate Certificate of Programming and Development at Swinburne University of Technology.
+   - Graduate Certificate of Information Technology at Charles Sturt University.
 
 🕮 Studied:
 
@@ -41,7 +41,7 @@ Technical skills:
    - Breaking into the industry
    - JavaScript
    - Python
-   - and anything relating to Programming and Cybersecurity.
+   - and anything relating to Programming, software development and Cybersecurity.
 
 ⚡ Fun fact:
 
