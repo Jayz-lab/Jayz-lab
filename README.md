@@ -61,7 +61,6 @@ Technical skills:
 <img src="https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical" height="200">
 </div>
 
-<img src="https://www.codewars.com/users/Jayz-lab/badges/micro">
 
 <!---
 Jayz-lab/Jayz-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
