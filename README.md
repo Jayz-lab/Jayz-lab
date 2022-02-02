@@ -23,8 +23,8 @@ and interested in:
 🕮 Studied:
 
    - CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Australia.
-   - Jr. Web Development Intensive, cohort 5 April 2021 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
-   - Frontend Web Development, July Cohort 2021 at Academy Xi via [Victorian Government Digital Jobs program, Australia](https://djpr.vic.gov.au/digital-jobs).
+   - Jr. Web Development Intensive, 2021, April Cohort 5 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
+   - Frontend Web Development, 2021, July Cohort 2021 at [Academy Xi](https://www.credly.com/badges/1f44a640-2c05-45f9-8da4-9319f6442a6b) via [Victorian Government Digital Jobs program, Australia](https://djpr.vic.gov.au/digital-jobs).
 <br>
 
 Technical skills:
