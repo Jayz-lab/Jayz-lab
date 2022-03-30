@@ -46,7 +46,7 @@ Technical skills:
 ⚡ Fun fact:
 
    - guitar & martial arts enthusiast 
-   - Lover of books though i don't read enough 😛 
+   - Lover of books though I don't read enough 😛 
    - Would love to someday learn Photography
 
 📫 How to reach me:
