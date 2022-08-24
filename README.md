@@ -1,6 +1,8 @@
-![](images/github.png)
+![](images/Modern%20Geometric%20Green%20General%20Linkedin%20Banner.png)
   
 👋 Hi, I’m JJ. **_Thank you_** for visiting my profile.
+
+ I’m a Junior Software Configuration Specialist for CMS Project @ [Court Services Victoria](https://www.courts.vic.gov.au/), Melbourne, Australia
 
 👀 I’m passionate about:
 
@@ -12,9 +14,10 @@ and interested in:
    - Cloud 
    - DevOps/DevSecOps methodology
 
-🔭 I’m currently looking:
+🔭 I’m currently working on:
 
-   - to further my knowledge in CS and Programming.
+   - Developing my knowledge in CS and Programming.
+   - Learning Java, Groovy and Apache Velocity Templating language.
 
 🌱 I’m currently studying:
 
