@@ -14,7 +14,7 @@ and interested in:
 
 🔭 I’m currently looking:
 
-   - for a career as a Front-end Web Developer.
+   - to further my knowledge in CS and Programming.
 
 🌱 I’m currently studying:
 
