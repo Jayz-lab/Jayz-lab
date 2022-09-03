@@ -41,9 +41,8 @@ Technical skills:
 
 🤔 I’m looking for help with:
 
-   - Breaking into the industry
-   - JavaScript
-   - Python
+   - Tips of the industry
+   - Java, Groovy
    - and anything relating to Programming, software development and Cybersecurity.
 
 ⚡ Fun fact:
