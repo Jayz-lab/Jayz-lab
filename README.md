@@ -7,11 +7,11 @@
 👀 I’m passionate about:
 
    - Software Development
-   - Cybersecurity
-
+   
 and interested in:
 
-   - Cloud 
+   - Cybersecurity
+   - Cloud Technologies
    - DevOps/DevSecOps methodology
 
 🔭 I’m currently working on:
