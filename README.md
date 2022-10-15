@@ -47,7 +47,7 @@ Technical skills:
 ⚡ Fun fact:
 
    - Chess enthusiast.
-   - guitar & martial arts hobbist.
+   - guitar & martial arts hobbyist.
    - Lover of books though I don't read enough. 😛 (Genre: Psychology, Parenting, Spirituality)
    - Would love to learn Photography someday.
 
