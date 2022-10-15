@@ -42,7 +42,7 @@ Technical skills:
 
    - Tips of the industry
    - Java, Groovy
-   - and anything relating to Programming, software development and Cybersecurity.
+   - and anything relating to Programming, software development and CS Principles.
 
 ⚡ Fun fact:
 
