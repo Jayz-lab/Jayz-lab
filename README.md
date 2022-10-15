@@ -16,12 +16,11 @@ and interested in:
 
 🔭 I’m currently working on:
 
-   - Developing my knowledge in CS and Programming.
-   - Learning Java, Groovy and Apache Velocity Templating language.
+   - Ongoing development of my knowledge in CS and Programming.
 
 🌱 I’m currently studying:
 
-   - Graduate Certificate of Information Technology at Charles Sturt University.
+   - Java, Groovy and Apache Velocity Templating language.
 
 🕮 Studied:
 
@@ -47,9 +46,10 @@ Technical skills:
 
 ⚡ Fun fact:
 
-   - guitar & martial arts enthusiast 
-   - Lover of books though I don't read enough 😛 
-   - Would love to someday learn Photography
+   - Chess enthusiast.
+   - guitar & martial arts hobbist.
+   - Lover of books though I don't read enough. 😛 (Genre: Psychology, Parenting, Spirituality)
+   - Would love to learn Photography someday.
 
 📫 How to reach me:
 
