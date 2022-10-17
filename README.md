@@ -30,7 +30,7 @@ and interested in:
 <br>
 
 Technical skills:
-###### Language
+###### Languages
     - HTML, CSS, JavaScript, Python. 
 ###### Framework, systems & tools
     - VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
