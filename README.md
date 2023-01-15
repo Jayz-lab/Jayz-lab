@@ -82,4 +82,7 @@ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing
 syntax for spacing in filename.png -> ![](images/linkedin%20filename.png) %20
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayz-lab&show_icons=true&theme=radical" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Jayz-lab&show_icons=true&theme=radical" height="200">
 --->
