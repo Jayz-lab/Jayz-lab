@@ -41,7 +41,6 @@ Technical skills:
 
 🤔 I’m looking for help with:
 
-   - Tips of the industry
    - Java, Groovy
    - and anything relating to Programming, software development and CS Principles.
 
