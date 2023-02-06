@@ -27,11 +27,12 @@ and interested in:
    - CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/), Australia.
    - Jr. Web Development Intensive, 2021, April Cohort 5 at [Generation Australia](https://australia.generation.org/programs/become-a-web-developer/).
    - Frontend Web Development, 2021, Round 1, July 2021 at [Academy Xi](https://www.credly.com/badges/1f44a640-2c05-45f9-8da4-9319f6442a6b) via [Victorian Government Digital Jobs program, Australia](https://djpr.vic.gov.au/digital-jobs).
+   - Java Explorer, Oracle University
 <br>
 
 Technical skills:
 ###### Languages
-    - HTML, CSS, JavaScript, Python. 
+    - HTML, CSS, JavaScript, Python, Java 
 ###### Framework, systems & tools
     - VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
 ###### Others
