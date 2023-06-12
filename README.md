@@ -34,7 +34,7 @@ Technical skills:
 ###### Languages
     - HTML, CSS, JavaScript, Python, Java 
 ###### Framework, systems & tools
-    - VS Code, Pycharm, command line, Git/Github, Bootstrap, Agile & Scrum methodology.
+    - VS Code, Pycharm, command line interface, Linux, Git version control, Node.js, Github, Bootstrap, Agile & Scrum methodology.
 ###### Others
     - Slack, Microsoft Office, Microsoft Teams, Google Docs, Canvas LMS, Splunk, Wireshark, VMware., Confluence, Jira.
 <br>
