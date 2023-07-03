@@ -2,7 +2,7 @@
   
 👋 Hi, I’m JJ. **_Thank you_** for visiting my profile.
 
- I’m a Junior Software Configuration Specialist at [Court Services Victoria](https://www.courts.vic.gov.au/) CMS Project, Melbourne, Australia.
+ I’m a Software Configuration Specialist at [Court Services Victoria](https://www.courts.vic.gov.au/) CMS Project, Melbourne, Australia.
 
 👀 I’m passionate about:
 
