@@ -32,7 +32,7 @@ and interested in:
 
 Technical skills:
 ###### Languages
-    - HTML, CSS, JavaScript, Python, Java 
+    - HTML, CSS, JavaScript, Python, Java, Groovy
 ###### Framework, systems & tools
     - VS Code, Pycharm, command line interface, Linux, Git version control, Node.js, Github, Bootstrap, Agile & Scrum methodology.
 ###### Others
