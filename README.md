@@ -17,10 +17,14 @@ and interested in:
 🔭 I’m currently working on:
 
    - Ongoing development of my knowledge in CS and Programming.
+   - Learning JavaScript by building web apps Projects 
 
 🌱 I’m currently studying:
 
-   - Java, Groovy and Apache Velocity Templating language.
+   - JavaScript, Java, Groovy, and Apache Velocity Templating language.
+     
+📖 I’m currently reading:
+   - Eloquent JavaScript by Marijn Haverbeke
 
 🕮 Studied:
 
@@ -41,15 +45,15 @@ Technical skills:
 
 🤔 I’m looking for help with:
 
-   - Java, Groovy
-   - and anything relating to Programming, software development and CS Principles.
+   - Java, Groovy, JavaScript
+   - and anything relating to Programming, software development, and CS Principles.
 
 ⚡ Fun fact:
 
    - Chess enthusiast.
    - guitar & martial arts hobbyist.
    - Lover of books though I don't read as much as I like to. (psychology, parenting, Spirituality)
-   - Would love to learn Photography someday.
+   - I would love to learn Photography someday.
 
 📫 How to reach me:
 
