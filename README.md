@@ -21,7 +21,7 @@ and interested in:
 
 🌱 I’m currently studying:
 
-   - JavaScript, Java, Groovy, and Apache Velocity Templating language.
+   - Graduate Certificate in Information Technology at Deakin University
      
 📖 I’m currently reading:
    - Eloquent JavaScript by Marijn Haverbeke
