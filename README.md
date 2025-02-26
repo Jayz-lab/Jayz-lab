@@ -21,7 +21,8 @@ and interested in:
 
 🌱 I’m currently studying:
 
-   - 
+   - JavaScript Essentials 1 (CISCO Network Academy )
+     
 📖 I’m currently reading:
    - Eloquent JavaScript by Marijn Haverbeke
 
